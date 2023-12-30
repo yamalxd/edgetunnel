@@ -6,7 +6,7 @@
 修改名称（随意）点击部署，再编辑代码
 
 
-打开项目的.js文件 https://github.com/zizifn/edgetunnel/blob/main/src/worker-vless.js 全选复制里面的代码，粘贴到workers中
+打开项目的.js文件 /src/worker-vless.js 全选复制里面的代码，粘贴到workers中
 
 
 修改 UUID 和 proxyIP，UUID 可选择在线生成 https://1024tools.com/uuid 复制粘贴，这里提供一个IP let proxyIP = ‘103.200.112.108’; 同样复制粘贴，最后点击保存并部署，那这个ip的作用是啥呢
